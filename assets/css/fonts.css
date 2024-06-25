@@ -1,0 +1,28 @@
+@font-face{
+    font-family: "LINESeedJP";
+    src: url("../fonts/LINESeedJP_OTF_Bd.otf") format("opentype");
+    font-weight:normal;
+    font-style:normal;
+    font-display:swap;
+}
+@font-face{
+    font-family: "KozukaGothic";
+    src: url("../fonts/Kozuka-Gothic-Pr6N-Regular-2.otf") format("opentype");
+    font-weight:normal;
+    font-style:normal;
+    font-display:swap;
+}
+@font-face{
+    font-family: "LINESeedJP Regular";
+    src: url("../fonts/LINESeedJP_A_OTF_Rg.otf") format("opentype");
+    font-weight:normal;
+    font-style:normal;
+    font-display:swap;
+}
+@font-face{
+    font-family: "NotoSansCJKjp-Black";
+    src: url("../fonts/NotoSansCJKjp-Black.ttf") format("opentype");
+    font-weight:normal;
+    font-style:normal;
+    font-display:swap;
+}
